@@ -17,7 +17,10 @@ This repo is an example of how I did it.
 > :warning: There is probably a better, more efficient way to solving this problem, this is just how I did it. 
 Feel free to suggest improvements.
 
-[Read the complete walkthrough of this example on The Console Blog
+
+
+
+[Read the complete walkthrough of this example on The Console Blog&nbsp;&nbsp;
 <img src="https://theconsoleblog.com/wp-content/uploads/2021/01/the_console_blog_logo.png" width="120"/>
 ](https://theconsoleblog.com/dynamic-nodejs-classes/)
 

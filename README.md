@@ -13,7 +13,9 @@ Because of how the project is built I had to redo the exact same change 8 times 
 I solved my problem by transferring a class method, including inner methods and variables from my main server to all other servers.
 
 This repo is an example of how I did it.
-![Screenshot](https://theconsoleblog.com/wp-content/uploads/2021/01/the_console_blog_logo.png | width=100)
+
+IMG SRC
+<img src="https://theconsoleblog.com/wp-content/uploads/2021/01/the_console_blog_logo.png"/>
 There is probably a better, more efficient way to solving this problem, this is just how I did it. 
 Feel free to suggest improvements.
 Read the complete walkthrough on The Console Blog

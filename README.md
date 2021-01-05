@@ -1,4 +1,4 @@
-
+# Dynamic NodeJS Classes <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" width="50" align="right"/>
 
 A method for transferring a class from one NodeJS server to the other.
 
@@ -15,7 +15,7 @@ I solved my problem by transferring a class method, including inner methods and 
 This repo is an example of how I did it.
 
 IMG SRC
-<img src="https://theconsoleblog.com/wp-content/uploads/2021/01/the_console_blog_logo.png" width="50"/>
+
 There is probably a better, more efficient way to solving this problem, this is just how I did it. 
 Feel free to suggest improvements.
 Read the complete walkthrough on The Console Blog

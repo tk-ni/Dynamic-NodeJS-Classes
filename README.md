@@ -142,8 +142,8 @@ Feel free to suggest improvements.
 <br/>
 
 </p>
-
-<a href="https://theconsoleblog.com/dynamic-nodejs-classes/" target="_blank"> 
+<a href="#" style="color:red">href</a>
+<a href="https://theconsoleblog.com/dynamic-nodejs-classes/" style="color:red" target="_blank"> 
 
 <button class="blog">
 <p>

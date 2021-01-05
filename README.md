@@ -17,12 +17,12 @@ This repo is an example of how I did it.
 > :warning: There is probably a better, more efficient way to solving this problem, this is just how I did it. 
 Feel free to suggest improvements.
 
-[Read the complete walkthrough on The Console Blog
-<img src="https://theconsoleblog.com/wp-content/uploads/2021/01/the_console_blog_logo.png" width="70"/>
+[Read the complete walkthrough of this example on The Console Blog
+<img src="https://theconsoleblog.com/wp-content/uploads/2021/01/the_console_blog_logo.png" width="120"/>
 ](https://theconsoleblog.com/dynamic-nodejs-classes/)
 
 
-Like it and want to support me? [<img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbee341ae2b8813ae072f5b_Ko-fi_logo_RGB_Outline.png" width="25"/> Buy me a coffee!](https://ko-fi.com/theconsoleblog)
+Like it and want to support me? [<img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbee341ae2b8813ae072f5b_Ko-fi_logo_RGB_Outline.png" width="20"/> Buy me a coffee!](https://ko-fi.com/theconsoleblog)
 
 
 # Running the example
@@ -48,7 +48,7 @@ Open a new CMD/Terminal and cd into the main folder again, then type in these co
  npm start
 ```
 
-Both <strong>main_server</strong> and <strong>sub_server</strong> need to run for the example to work
+> :warning: Both <strong>main_server</strong> and <strong>sub_server</strong> need to run for the example to work
 
 Open up Postman (or any other API development tool) and send a GET request to the test route on our sub server (currently running on port 3202)
 

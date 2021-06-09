@@ -18,14 +18,7 @@ This repo is an example of how I did it.
 Feel free to suggest improvements.
 
 
-
-
-[Read the complete walkthrough of this example on The Console Blog&nbsp;&nbsp;
-<img src="https://theconsoleblog.com/wp-content/uploads/2021/01/the_console_blog_logo.png" width="120"/>
-](https://theconsoleblog.com/dynamic-nodejs-classes/)
-
-
-Like it and want to support me? [<img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbee341ae2b8813ae072f5b_Ko-fi_logo_RGB_Outline.png" width="20"/> Buy me a coffee!](https://ko-fi.com/theconsoleblog)
+Like it and want to support me? [<img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5cbee341ae2b8813ae072f5b_Ko-fi_logo_RGB_Outline.png" width="20"/> Buy me a coffee!](https://ko-fi.com/tk_ni)
 
 
 # Running the example
